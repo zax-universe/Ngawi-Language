@@ -1,0 +1,13 @@
+fn fact(n: amba) -> amba {
+  if (n <= 1) {
+    return 1;
+  }
+  return n * fact(n - 1);
+}
+
+fn main() -> amba {
+  muwani x: amba = 5;
+  muwani y = fact(x);
+  print("fact", x, "=", y);
+  return 0;
+}

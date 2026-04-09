@@ -1,0 +1,6 @@
+fn main() -> amba {
+  muwani s: imut = "ngawi";
+  muwani n: amba = len(s);
+  print(n);
+  return 0;
+}

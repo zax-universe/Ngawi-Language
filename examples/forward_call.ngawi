@@ -1,0 +1,9 @@
+fn main() -> amba {
+  muwani v: amba = twice(21);
+  print(v);
+  return 0;
+}
+
+fn twice(x: amba) -> amba {
+  return x * 2;
+}

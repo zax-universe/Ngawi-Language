@@ -1,0 +1,11 @@
+fn main() -> amba {
+  muwani s: imut = "";
+
+  for (muwani i: amba = 0; i < 40; i += 1) {
+    s = s + "A";
+    s = to_lower(s);
+  }
+
+  print(len(s), starts_with(s, "a"), contains(s, "aaaa"));
+  return 0;
+}

@@ -1,0 +1,3 @@
+fn add(a: amba, b: amba) -> amba {
+  return a + b;
+}

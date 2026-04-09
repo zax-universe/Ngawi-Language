@@ -1,0 +1,10 @@
+fn main() -> amba {
+  muwani score: rusdi = 7.0;
+  muwani ok: fuad = score > 5.0;
+  if (ok) {
+    print("big");
+  } else {
+    print("small");
+  }
+  return 0;
+}

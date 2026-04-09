@@ -1,0 +1,14 @@
+fn main() -> amba {
+  muwani i: amba = 0;
+
+  i++;
+  i++;
+  i--;
+
+  for (muwani j: amba = 0; j < 3; j++) {
+    i += j;
+  }
+
+  print(i);
+  return 0;
+}

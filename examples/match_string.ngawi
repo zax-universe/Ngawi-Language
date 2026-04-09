@@ -1,0 +1,11 @@
+fn main() -> amba {
+  muwani s: imut = "ngawi";
+
+  match s {
+    "lang" => { print("no"); }
+    "ngawi" => { print("yes"); }
+    _ => { print("other"); }
+  }
+
+  return 0;
+}
